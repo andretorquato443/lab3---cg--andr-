@@ -17,11 +17,9 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-2. **Dataset 2**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-3. ...
+1. **Dataset 1**: https://www.kaggle.com/datasets/mkhoirulmustaqim/student-depression-detection-dataset/data
+    * **Descrição curta**: Este dataset representa um conjunto de dados extraídos de um questionário realizado no google forms respondido por 4464 estudantes , que possui como variáveis explicativas informações demográficas, acadêmicas, sociais, econômicas e de saúde e como variável alvo se o estudante se considera uma vítima de depressão.
+
 
 ## Código-fonte da visualização
 
