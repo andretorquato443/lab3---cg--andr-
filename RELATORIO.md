@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: André Torquato Pedreira
+- **Cartão UFRGS:** 600986
 
 ## Dados utilizados
 
