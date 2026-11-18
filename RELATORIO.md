@@ -1,8 +1,5 @@
 # Relatório
 
-> [!CAUTION]
->
-> - Você <ins>**não**</ins> **pode utilizar ferramentas de IA para escrever este relatório**.
 
 ## Identificação
 
@@ -11,15 +8,8 @@
 
 ## Dados utilizados
 
-> [!IMPORTANT]
->
-> - Os dados utilizados devem ser informados como **links** para as fontes originais.
-> - Se houver mais de um conjunto de dados, liste todos separadamente.
-> - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
-
 1. **Dataset 1**: https://www.kaggle.com/datasets/mkhoirulmustaqim/student-depression-detection-dataset/data
-    * **Descrição curta**: Este dataset representa um conjunto de dados extraídos de um questionário realizado no google forms respondido por 4464 estudantes , que possui como variáveis explicativas informações demográficas, acadêmicas, sociais, econômicas e de saúde e como variável alvo se o estudante se considera uma vítima de depressão.
-
+    * **Descrição curta**: Este dataset representa um conjunto de dados extraídos de um questionário realizado no google forms respondido por 4464 estudantes , que possui como variáveis explicativas informações demográficas, acadêmicas, sociais, econômicas e de saúde e como variável 
 
 ## Código-fonte da visualização
 
@@ -44,19 +34,12 @@
 ## Descrição da visualização
 
 ### Legenda (*caption*)
+O primeiro gráfico mostra um histograma , onde cada barra representa um intervalo de notas de desempenho acadêmico universitário (Cumulative Grade Point Average) e a altura dessa barra representa a porcentagem dos estudantes nesse intervalo que sofrem de depressão em relação ao total dentro desse intervalo. O uso da cor mais azulada na barra demonstra um intervalo com desempenho acadêmico melhor  , enquanto que a cor esverdeada revela um desempenho pior.
 
-> [!IMPORTANT]
->
-> - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
-> - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
-
-<mark>`<preencher>`</mark>
+O segundo gráfico representa um histograma , onde cada barra engloba um grupo de estudantes que estão incluídos em um mesmo intervalo etário e a altura de cada barra representa também a porcentagem da presença de estudantes com depressão em relação ao total no intervalo. Dessa vez, a cor mais escura representa uma idade mais avançada ea mais clara indica um grupo de idade mais jovem. 
 
 ### Conclusão demonstrada pela visualização
 
-> [!IMPORTANT]
->
-> - Escreva uma conclusão curta sobre os dados com base na visualização.
-> - Explique qual insight, padrão ou tendência pode ser observado.
+Pode se concluir atráves da visualização que nos grupos de pior desempenho acadêmico há uma maior presença relativa de estudantes depressivos e que os grupos etários mais jovem e o mais velho da amostra apresenta também um amaior presença relativa de estudantes com depressão , em relação aos demais grupos. 
 
-<mark>`<preencher>`</mark>
+
