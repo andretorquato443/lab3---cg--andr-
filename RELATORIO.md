@@ -38,7 +38,7 @@
 
 <mark>`<preencher abaixo>`</mark>
 
-![Visualização resultante](imagem-da-visualizacao.png)
+![Visualização resultante](./resacadem.png)(./faixaetaria.png)
 
 ## Descrição da visualização
 
