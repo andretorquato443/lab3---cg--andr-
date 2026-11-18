@@ -26,9 +26,8 @@
 > [!IMPORTANT]
 >
 > - Indique abaixo onde está, dentro deste repositório, o código-fonte usado para gerar a visualização.
-
-- **Arquivo principal**: <mark>`<preencher>`</mark>
-- **Arquivos complementares (se houver)**: <mark>`<preencher>`</mark>
+> - 
+- **Arquivo principal**:  [lab3.ipynb](./lab3.ipynb) — Notebook Jupyter contendo o código-fonte da visualização (feito com google colab).
 
 ## Imagem da visualização gerada
 
